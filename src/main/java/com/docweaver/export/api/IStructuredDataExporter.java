@@ -1,6 +1,6 @@
 package com.docweaver.export.api;
 
-import com.docweaver.core.document.StructuredDocument;
+import com.docweaver.domain.StructuredDocument;
 
 /**
  * Abstraction for exporting a StructuredDocument to some target.
