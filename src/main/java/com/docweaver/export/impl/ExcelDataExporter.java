@@ -1,8 +1,8 @@
 package com.docweaver.export.impl;
 
-import com.docweaver.core.document.StructuredDocument;
 import com.docweaver.export.api.ExportTarget;
 import com.docweaver.export.template.AbstractStructuredDataExporter;
+import com.docweaver.domain.StructuredDocument;
 
 /**
  * Placeholder for an Excel exporter.
