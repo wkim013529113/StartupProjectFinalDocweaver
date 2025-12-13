@@ -1,6 +1,5 @@
 package com.docweaver.export.app;
 
-import com.docweaver.core.document.StructuredDocument;
 import com.docweaver.export.api.ExportException;
 import com.docweaver.export.api.ExportFormat;
 import com.docweaver.export.api.ExportTarget;
@@ -8,6 +7,7 @@ import com.docweaver.export.api.IStructuredDataExporter;
 import com.docweaver.export.impl.CsvDataExporter;
 import com.docweaver.export.impl.ExcelDataExporter;
 import com.docweaver.export.impl.JsonDataExporter;
+import com.docweaver.domain.StructuredDocument;
 
 import java.util.EnumMap;
 import java.util.Map;
