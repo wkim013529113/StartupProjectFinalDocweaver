@@ -1,6 +1,5 @@
 package com.docweaver.external.app;
 
-import com.docweaver.core.document.StructuredDocument;
 import com.docweaver.external.api.*;
 import com.docweaver.external.adapters.CrmAdapter;
 import com.docweaver.external.adapters.LosAdapter;
@@ -8,6 +7,7 @@ import com.docweaver.external.adapters.SalesforceAdapter;
 import com.docweaver.external.sdk.CrmApiClient;
 import com.docweaver.external.sdk.LosApiClient;
 import com.docweaver.external.sdk.SalesforceApiClient;
+import com.docweaver.domain.*;
 
 import java.util.EnumMap;
 import java.util.Map;
