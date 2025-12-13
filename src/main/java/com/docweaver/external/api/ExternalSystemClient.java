@@ -1,6 +1,6 @@
 package com.docweaver.external.api;
 
-import com.docweaver.core.document.StructuredDocument;
+import com.docweaver.domain.StructuredDocument;
 
 /**
  * DocWeaver's abstraction over an external system.
