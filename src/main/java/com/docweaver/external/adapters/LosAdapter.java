@@ -1,11 +1,11 @@
 package com.docweaver.external.adapters;
 
-import com.docweaver.core.document.StructuredDocument;
 import com.docweaver.external.api.ExternalPushResult;
 import com.docweaver.external.api.ExternalStatus;
 import com.docweaver.external.api.ExternalSystemClient;
 import com.docweaver.external.api.ExternalSystemException;
 import com.docweaver.external.sdk.LosApiClient;
+import com.docweaver.domain.StructuredDocument;
 
 import java.time.Instant;
 import java.util.HashMap;
